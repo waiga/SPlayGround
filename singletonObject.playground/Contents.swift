@@ -1,5 +1,6 @@
 import UIKit
 
+let defaults = UserDefaults.standard
 class Car {
     var colour = "Red"
 }
